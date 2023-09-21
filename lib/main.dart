@@ -1,3 +1,5 @@
+// Gloria Marie Lamsin: Only one you know and respect death can you truly understand the value of life. - Hu Tao
+
 import 'package:flutter/material.dart';
 
 void main() {
